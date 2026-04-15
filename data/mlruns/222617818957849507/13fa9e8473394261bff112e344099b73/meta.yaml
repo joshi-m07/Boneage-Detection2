@@ -1,0 +1,14 @@
+artifact_uri: /Users/I763842/Boneage-Detection1/data/mlruns/222617818957849507/13fa9e8473394261bff112e344099b73/artifacts
+end_time: 1776247901243
+entry_point_name: ''
+experiment_id: '222617818957849507'
+lifecycle_stage: active
+run_id: 13fa9e8473394261bff112e344099b73
+run_name: patient_2026-007
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776247891732
+status: 3
+tags: []
+user_id: jayan
