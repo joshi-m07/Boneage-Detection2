@@ -3,7 +3,7 @@ import os
 
 # Initialize connection string.
 # Since this was requested directly via UI, embedding here. But typical protocol relies on os.getenv()
-MONGO_URI = "mongodb+srv://jayanthramnithin:jrnk72004nithu@cluster0.lttav.mongodb.net/?appName=Cluster0"
+MONGO_URI = "mongodb+srv://joshikamuthu05:joshikamuthu05@travel.vr5qjab.mongodb.net/?appName=travel"
 
 try:
     client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)
